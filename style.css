@@ -154,3 +154,9 @@ body {
         border: 1px solid transparent;
     }
 }
+
+.rodape_fixo {
+    position: absolute;
+    bottom: 0;
+    position: fixed;      
+}
